@@ -1,5 +1,6 @@
 void sum(int one, int two) {
   // compute sum and print result
+  print('Sum: ${one + two}');
 }
 
 void difference(int one, int two) {
